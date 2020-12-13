@@ -1,7 +1,5 @@
 ### Hi there, I'm Gerard - aka NewFrenchDev 👋
 
-[![Instagram Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 ## I'm a Quick Learner, Autodidact and Developer!!
 
 - 🔭 I just launched my Youtube Channel: [NewFrenchDev][youtube]!
@@ -12,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-NewFrenchDev.vercel.app/api/spotify-playing" alt="NewFrenchDev Spotify Playing" width="350" />](https://open.spotify.com/user/5poysnhfqeuqvporsjfmxiff2)
+[<img src="https://new-french-dev.vercel.app//api/spotify-playing" alt="NewFrenchDev Spotify Playing" width="350" />](https://open.spotify.com/user/5poysnhfqeuqvporsjfmxiff2)
 
 ### Connect with me:
 
