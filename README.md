@@ -96,6 +96,6 @@
 
 </details>
 
-[youtube]: https://youtube.com/NewFrenchDev
-[instagram]: https://instagram.com/gege-island-guy
-[linkedin]: https://www.linkedin.com/in/gérard-lemoing
+[youtube]: https://www.youtube.com/channel/UCNyDAD3pprjh0-E_5PJh9Sg
+[instagram]: https://www.instagram.com/gege_island_guy
+[linkedin]: https://www.linkedin.com/in/gérard-lemoing-807099138
