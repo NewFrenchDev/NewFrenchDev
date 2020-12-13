@@ -50,8 +50,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My first 2D game with Python (part 2)](https://www.youtube.com/watch?v=etQ6zwq1K_o)
-- [My first 2D game with Python](https://www.youtube.com/watch?v=1i46WneiNY4)
 <!-- BLOG-POST-LIST:END -->
 
 
