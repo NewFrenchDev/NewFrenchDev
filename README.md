@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-NewFrenchDev.vercel.app/api/spotify-playing" alt="NewFrenchDev Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-NewFrenchDev.vercel.app/api/spotify-playing" alt="NewFrenchDev Spotify Playing" width="350" />](https://open.spotify.com/user/5poysnhfqeuqvporsjfmxiff2)
 
 ### Connect with me:
 
