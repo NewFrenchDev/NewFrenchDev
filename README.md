@@ -60,8 +60,8 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+[![NewFrenchDev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=newfrenchdev)](https://github.com/newfrenchdev/github-readme-stats)
+
 
 </details>
 
