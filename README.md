@@ -60,15 +60,14 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
-[![NewFrenchDev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=newfrenchdev)](https://github.com/newfrenchdev/github-readme-stats)
-
+[![NewFrenchDev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=newfrenchdev)]
 
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
- [![NewFrenchDev's github stats](https://github-readme-stats.vercel.app/api?username=newfrenchdev)](https://github.com/newfrenchdev/github-readme-stats)
+ [![NewFrenchDev's github stats](https://github-readme-stats.vercel.app/api?username=newfrenchdev)]
 
 </details>
 
