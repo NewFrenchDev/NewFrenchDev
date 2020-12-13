@@ -60,7 +60,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
-[![NewFrenchDev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=newfrenchdev)]
+[![NewFrenchDev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NewFrenchDev)]
 
 </details>
 
