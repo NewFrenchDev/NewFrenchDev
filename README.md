@@ -17,7 +17,7 @@
 [<img align="left" alt="NewFrenchDev | YouTube" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" />][youtube]
 [<img align="left" alt="NewFrenchDev  | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
 [<img align="left" alt="NewFrenchDev  | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
-[<img align="left" alt="NewFrenchDev  | Discord" width="22px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png" />]()
+[<img align="left" alt="NewFrenchDev  | Discord" width="22px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png" />][discord]
 
 <br>
 </br>
