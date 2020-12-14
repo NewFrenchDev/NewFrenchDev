@@ -79,8 +79,8 @@
 
 [![NewFrenchDev wakatime stats](https://github-readme-stats.newfrenchdev.vercel.app/api/wakatime?username=NewFrenchDev)](https://github.com/anuraghazra/github-readme-stats)
 
+[<img align="left" alt="Discord Server" width="26px" src="https://img.shields.io/discord/655411859981205517?label=discord&logo=discord"/>]()
 
 [youtube]: https://www.youtube.com/channel/UCNyDAD3pprjh0-E_5PJh9Sg
 [instagram]: https://www.instagram.com/gege_island_guy
 [linkedin]: https://www.linkedin.com/in/gérard-lemoing-807099138
-https://img.shields.io/discord/655411859981205517?label=discord&logo=discord
