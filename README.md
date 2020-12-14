@@ -95,3 +95,4 @@
 [youtube]: https://www.youtube.com/channel/UCNyDAD3pprjh0-E_5PJh9Sg
 [instagram]: https://www.instagram.com/gege_island_guy
 [linkedin]: https://www.linkedin.com/in/gérard-lemoing-807099138
+[discord]: https://discord.com
