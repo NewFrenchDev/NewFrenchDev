@@ -40,6 +40,7 @@
 </br>
 
 ### Machine Learning
+
 [<img align="left" alt="Jupyter" width="100px" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />](https://jupyter.org)
 [<img align="left" alt="Pandas" width="100px" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />](https://pandas.pydata.org)
 [<img align="left" alt="Numpy" width="100px" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />](https://numpy.org)
@@ -48,6 +49,7 @@
 
 <br >
 </br>
+
 ---
 
 ### 📺 Latest YouTube Videos
