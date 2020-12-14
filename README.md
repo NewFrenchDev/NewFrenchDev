@@ -83,7 +83,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
- [![NewFrenchDev's github stats](https://github-readme-stats.newfrenchdev.vercel.app/api?username=newfrenchdev)]
+ [![NewFrenchDev's github stats](https://github-readme-stats.newfrenchdev.vercel.app/api?username=NewFrenchDev)]
 
 </details>
 
