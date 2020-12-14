@@ -73,11 +73,11 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
- [![NewFrenchDev's github stats](https://github-readme-stats.vercel.app/api?username=newfrenchdev)]
+ [![NewFrenchDev's github stats](https://github-readme-stats.newfrenchdev.vercel.app/api?username=newfrenchdev)]
 
 </details>
 
-[![NewFrenchDev wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NewFrenchDev)](https://github.com/anuraghazra/github-readme-stats)
+[![NewFrenchDev wakatime stats](https://github-readme-stats.newfrenchdev.vercel.app/api/wakatime?username=NewFrenchDev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [youtube]: https://www.youtube.com/channel/UCNyDAD3pprjh0-E_5PJh9Sg
