@@ -5,7 +5,7 @@
 - 🔭 I just launched my Youtube Channel: [NewFrenchDev][youtube]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Become a develop able to use any language
+- 🥅 2021 Goals: Become a developer able to use any language
 - ⚡ Fun fact: I love to read and want to travel around the world
 
 ### Spotify Playing 🎧
@@ -57,19 +57,20 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-[![NewFrenchDev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NewFrenchDev)]
 
-</details>
+<summary>:zap: Recent GitHub Activity</summary>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
+
+
+<summary>:zap: GitHub Stats</summary>
 
  [![NewFrenchDev's github stats](https://github-readme-stats.vercel.app/api?username=newfrenchdev)]
 
-</details>
+
 
 [youtube]: https://www.youtube.com/channel/UCNyDAD3pprjh0-E_5PJh9Sg
 [instagram]: https://www.instagram.com/gege_island_guy
