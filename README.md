@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Become a developer able to use any language
-- ⚡ Fun fact: I love to read and want to travel around the world
+- ⚡ Fun fact: I love reading and want to travel around the world
 
 ### Spotify Playing 🎧
 
