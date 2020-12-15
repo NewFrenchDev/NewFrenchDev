@@ -75,11 +75,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/NewFrenchDev/Formation-Jedha/pull/1) in [NewFrenchDev/Formation-Jedha](https://github.com/NewFrenchDev/Formation-Jedha)
-2. 💪 Opened PR [#1](https://github.com/NewFrenchDev/Formation-Jedha/pull/1) in [NewFrenchDev/Formation-Jedha](https://github.com/NewFrenchDev/Formation-Jedha)
-3. 🎉 Merged PR [#3](https://github.com/NewFrenchDev/Basic-Quizz-Game/pull/3) in [NewFrenchDev/Basic-Quizz-Game](https://github.com/NewFrenchDev/Basic-Quizz-Game)
-4. 💪 Opened PR [#3](https://github.com/NewFrenchDev/Basic-Quizz-Game/pull/3) in [NewFrenchDev/Basic-Quizz-Game](https://github.com/NewFrenchDev/Basic-Quizz-Game)
-5. 🎉 Merged PR [#2](https://github.com/NewFrenchDev/Basic-Quizz-Game/pull/2) in [NewFrenchDev/Basic-Quizz-Game](https://github.com/NewFrenchDev/Basic-Quizz-Game)
+1. 🎉 Merged PR [#33](https://github.com/NewFrenchDev/Coding-Project/pull/33) in [NewFrenchDev/Coding-Project](https://github.com/NewFrenchDev/Coding-Project)
+2. 💪 Opened PR [#33](https://github.com/NewFrenchDev/Coding-Project/pull/33) in [NewFrenchDev/Coding-Project](https://github.com/NewFrenchDev/Coding-Project)
+3. 🎉 Merged PR [#1](https://github.com/NewFrenchDev/Formation-Jedha/pull/1) in [NewFrenchDev/Formation-Jedha](https://github.com/NewFrenchDev/Formation-Jedha)
+4. 💪 Opened PR [#1](https://github.com/NewFrenchDev/Formation-Jedha/pull/1) in [NewFrenchDev/Formation-Jedha](https://github.com/NewFrenchDev/Formation-Jedha)
+5. 🎉 Merged PR [#3](https://github.com/NewFrenchDev/Basic-Quizz-Game/pull/3) in [NewFrenchDev/Basic-Quizz-Game](https://github.com/NewFrenchDev/Basic-Quizz-Game)
 <!--END_SECTION:activity-->
 
 </details>
