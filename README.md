@@ -4,7 +4,7 @@
 
 - 🚀 I just launched my Youtube Channel: [NewFrenchDev][youtube]!
 - 🌱 I’m currently learning data sciences 📈 and cybersecurity 🔐👨🏽‍💻
-- 👯 I’m looking to collaborate with other developers
+- 🤝 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Become a developer able to adapt to any language
 - ⚡ Fun fact: I love to read and want to travel around the world
 
