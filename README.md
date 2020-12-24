@@ -3,10 +3,10 @@
 ## I'm a Quick Learner, Autodidact and Developer!!
 
 - 🚀 I just launched my Youtube Channel: [NewFrenchDev][youtube]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning data sciences 📈 and cybersecurity 🔐👨🏽‍💻
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Become a developer able to use any language
-- ⚡ Fun fact: I love reading, practicing Aikido and want to travel around the world
+- 🥅 2021 Goals: Become a developer able to adapt to any language
+- ⚡ Fun fact: I love to read and want to travel around the world
 
 ### Spotify Playing 🎧
 
