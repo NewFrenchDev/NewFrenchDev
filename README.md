@@ -75,11 +75,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/NewFrenchDev/Alstom-public/pull/7) in [NewFrenchDev/Alstom-public](https://github.com/NewFrenchDev/Alstom-public)
-2. 💪 Opened PR [#7](https://github.com/NewFrenchDev/Alstom-public/pull/7) in [NewFrenchDev/Alstom-public](https://github.com/NewFrenchDev/Alstom-public)
-3. 🎉 Merged PR [#6](https://github.com/NewFrenchDev/Alstom-public/pull/6) in [NewFrenchDev/Alstom-public](https://github.com/NewFrenchDev/Alstom-public)
-4. 💪 Opened PR [#6](https://github.com/NewFrenchDev/Alstom-public/pull/6) in [NewFrenchDev/Alstom-public](https://github.com/NewFrenchDev/Alstom-public)
-5. 🎉 Merged PR [#5](https://github.com/NewFrenchDev/Alstom-public/pull/5) in [NewFrenchDev/Alstom-public](https://github.com/NewFrenchDev/Alstom-public)
+1. 🎉 Merged PR [#36](https://github.com/NewFrenchDev/Coding-Project/pull/36) in [NewFrenchDev/Coding-Project](https://github.com/NewFrenchDev/Coding-Project)
+2. 💪 Opened PR [#36](https://github.com/NewFrenchDev/Coding-Project/pull/36) in [NewFrenchDev/Coding-Project](https://github.com/NewFrenchDev/Coding-Project)
+3. 🎉 Merged PR [#7](https://github.com/NewFrenchDev/Alstom-public/pull/7) in [NewFrenchDev/Alstom-public](https://github.com/NewFrenchDev/Alstom-public)
+4. 💪 Opened PR [#7](https://github.com/NewFrenchDev/Alstom-public/pull/7) in [NewFrenchDev/Alstom-public](https://github.com/NewFrenchDev/Alstom-public)
+5. 🎉 Merged PR [#6](https://github.com/NewFrenchDev/Alstom-public/pull/6) in [NewFrenchDev/Alstom-public](https://github.com/NewFrenchDev/Alstom-public)
 <!--END_SECTION:activity-->
 
 </details>
