@@ -75,11 +75,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/NewFrenchDev/Coding-Project/pull/45) in [NewFrenchDev/Coding-Project](https://github.com/NewFrenchDev/Coding-Project)
-2. 💪 Opened PR [#45](https://github.com/NewFrenchDev/Coding-Project/pull/45) in [NewFrenchDev/Coding-Project](https://github.com/NewFrenchDev/Coding-Project)
-3. 🎉 Merged PR [#44](https://github.com/NewFrenchDev/Coding-Project/pull/44) in [NewFrenchDev/Coding-Project](https://github.com/NewFrenchDev/Coding-Project)
-4. 💪 Opened PR [#44](https://github.com/NewFrenchDev/Coding-Project/pull/44) in [NewFrenchDev/Coding-Project](https://github.com/NewFrenchDev/Coding-Project)
-5. 🎉 Merged PR [#43](https://github.com/NewFrenchDev/Coding-Project/pull/43) in [NewFrenchDev/Coding-Project](https://github.com/NewFrenchDev/Coding-Project)
+1. 🎉 Merged PR [#47](https://github.com/NewFrenchDev/Coding-Project/pull/47) in [NewFrenchDev/Coding-Project](https://github.com/NewFrenchDev/Coding-Project)
+2. 💪 Opened PR [#47](https://github.com/NewFrenchDev/Coding-Project/pull/47) in [NewFrenchDev/Coding-Project](https://github.com/NewFrenchDev/Coding-Project)
+3. 🎉 Merged PR [#46](https://github.com/NewFrenchDev/Coding-Project/pull/46) in [NewFrenchDev/Coding-Project](https://github.com/NewFrenchDev/Coding-Project)
+4. 💪 Opened PR [#46](https://github.com/NewFrenchDev/Coding-Project/pull/46) in [NewFrenchDev/Coding-Project](https://github.com/NewFrenchDev/Coding-Project)
+5. 🎉 Merged PR [#45](https://github.com/NewFrenchDev/Coding-Project/pull/45) in [NewFrenchDev/Coding-Project](https://github.com/NewFrenchDev/Coding-Project)
 <!--END_SECTION:activity-->
 
 </details>
