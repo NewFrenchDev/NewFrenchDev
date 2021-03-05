@@ -75,11 +75,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/NewFrenchDev/Formation-Jedha/pull/3) in [NewFrenchDev/Formation-Jedha](https://github.com/NewFrenchDev/Formation-Jedha)
-2. 💪 Opened PR [#3](https://github.com/NewFrenchDev/Formation-Jedha/pull/3) in [NewFrenchDev/Formation-Jedha](https://github.com/NewFrenchDev/Formation-Jedha)
-3. 🎉 Merged PR [#2](https://github.com/NewFrenchDev/Formation-Jedha/pull/2) in [NewFrenchDev/Formation-Jedha](https://github.com/NewFrenchDev/Formation-Jedha)
-4. 💪 Opened PR [#2](https://github.com/NewFrenchDev/Formation-Jedha/pull/2) in [NewFrenchDev/Formation-Jedha](https://github.com/NewFrenchDev/Formation-Jedha)
-5. 🎉 Merged PR [#47](https://github.com/NewFrenchDev/Coding-Project/pull/47) in [NewFrenchDev/Coding-Project](https://github.com/NewFrenchDev/Coding-Project)
+1. 🎉 Merged PR [#48](https://github.com/NewFrenchDev/Coding-Project/pull/48) in [NewFrenchDev/Coding-Project](https://github.com/NewFrenchDev/Coding-Project)
+2. 💪 Opened PR [#48](https://github.com/NewFrenchDev/Coding-Project/pull/48) in [NewFrenchDev/Coding-Project](https://github.com/NewFrenchDev/Coding-Project)
+3. 🎉 Merged PR [#3](https://github.com/NewFrenchDev/Formation-Jedha/pull/3) in [NewFrenchDev/Formation-Jedha](https://github.com/NewFrenchDev/Formation-Jedha)
+4. 💪 Opened PR [#3](https://github.com/NewFrenchDev/Formation-Jedha/pull/3) in [NewFrenchDev/Formation-Jedha](https://github.com/NewFrenchDev/Formation-Jedha)
+5. 🎉 Merged PR [#2](https://github.com/NewFrenchDev/Formation-Jedha/pull/2) in [NewFrenchDev/Formation-Jedha](https://github.com/NewFrenchDev/Formation-Jedha)
 <!--END_SECTION:activity-->
 
 </details>
