@@ -75,11 +75,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/NewFrenchDev/Formation-Jedha/pull/8) in [NewFrenchDev/Formation-Jedha](https://github.com/NewFrenchDev/Formation-Jedha)
-2. 💪 Opened PR [#8](https://github.com/NewFrenchDev/Formation-Jedha/pull/8) in [NewFrenchDev/Formation-Jedha](https://github.com/NewFrenchDev/Formation-Jedha)
-3. 🎉 Merged PR [#7](https://github.com/NewFrenchDev/Formation-Jedha/pull/7) in [NewFrenchDev/Formation-Jedha](https://github.com/NewFrenchDev/Formation-Jedha)
-4. 💪 Opened PR [#7](https://github.com/NewFrenchDev/Formation-Jedha/pull/7) in [NewFrenchDev/Formation-Jedha](https://github.com/NewFrenchDev/Formation-Jedha)
-5. 🎉 Merged PR [#6](https://github.com/NewFrenchDev/Formation-Jedha/pull/6) in [NewFrenchDev/Formation-Jedha](https://github.com/NewFrenchDev/Formation-Jedha)
+1. 🎉 Merged PR [#1](https://github.com/NewFrenchDev/NBA-profiler/pull/1) in [NewFrenchDev/NBA-profiler](https://github.com/NewFrenchDev/NBA-profiler)
+2. 💪 Opened PR [#1](https://github.com/NewFrenchDev/NBA-profiler/pull/1) in [NewFrenchDev/NBA-profiler](https://github.com/NewFrenchDev/NBA-profiler)
+3. 🎉 Merged PR [#8](https://github.com/NewFrenchDev/Formation-Jedha/pull/8) in [NewFrenchDev/Formation-Jedha](https://github.com/NewFrenchDev/Formation-Jedha)
+4. 💪 Opened PR [#8](https://github.com/NewFrenchDev/Formation-Jedha/pull/8) in [NewFrenchDev/Formation-Jedha](https://github.com/NewFrenchDev/Formation-Jedha)
+5. 🎉 Merged PR [#7](https://github.com/NewFrenchDev/Formation-Jedha/pull/7) in [NewFrenchDev/Formation-Jedha](https://github.com/NewFrenchDev/Formation-Jedha)
 <!--END_SECTION:activity-->
 
 </details>
