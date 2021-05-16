@@ -75,11 +75,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/NewFrenchDev/NBA-profiler/pull/41) in [NewFrenchDev/NBA-profiler](https://github.com/NewFrenchDev/NBA-profiler)
-2. 💪 Opened PR [#41](https://github.com/NewFrenchDev/NBA-profiler/pull/41) in [NewFrenchDev/NBA-profiler](https://github.com/NewFrenchDev/NBA-profiler)
-3. 🎉 Merged PR [#40](https://github.com/NewFrenchDev/NBA-profiler/pull/40) in [NewFrenchDev/NBA-profiler](https://github.com/NewFrenchDev/NBA-profiler)
-4. 💪 Opened PR [#40](https://github.com/NewFrenchDev/NBA-profiler/pull/40) in [NewFrenchDev/NBA-profiler](https://github.com/NewFrenchDev/NBA-profiler)
-5. 🎉 Merged PR [#39](https://github.com/NewFrenchDev/NBA-profiler/pull/39) in [NewFrenchDev/NBA-profiler](https://github.com/NewFrenchDev/NBA-profiler)
+1. 🎉 Merged PR [#44](https://github.com/NewFrenchDev/NBA-profiler/pull/44) in [NewFrenchDev/NBA-profiler](https://github.com/NewFrenchDev/NBA-profiler)
+2. 💪 Opened PR [#44](https://github.com/NewFrenchDev/NBA-profiler/pull/44) in [NewFrenchDev/NBA-profiler](https://github.com/NewFrenchDev/NBA-profiler)
+3. 🎉 Merged PR [#43](https://github.com/NewFrenchDev/NBA-profiler/pull/43) in [NewFrenchDev/NBA-profiler](https://github.com/NewFrenchDev/NBA-profiler)
+4. 💪 Opened PR [#43](https://github.com/NewFrenchDev/NBA-profiler/pull/43) in [NewFrenchDev/NBA-profiler](https://github.com/NewFrenchDev/NBA-profiler)
+5. 🎉 Merged PR [#42](https://github.com/NewFrenchDev/NBA-profiler/pull/42) in [NewFrenchDev/NBA-profiler](https://github.com/NewFrenchDev/NBA-profiler)
 <!--END_SECTION:activity-->
 
 </details>
