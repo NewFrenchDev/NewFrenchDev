@@ -1,60 +1,40 @@
-### Hi there, I'm Gerard - aka NewFrenchDev 👋
+# Gérard Lemoing
 
-## I'm a Quick Learner, Autodidact and Developer!!
-
-- 🚀 I just launched my Youtube Channel: [NewFrenchDev][youtube]!
-- 🌱 I’m currently learning data sciences 📈 and cybersecurity 🔐👨🏽‍💻
-- 🤝 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Become a developer able to adapt to any language
-- ⚡ Fun fact: I love to read and want to travel around the world
-
-### Spotify Playing 🎧
-
-[![Spotify](https://spotify-now-playing.newfrenchdev.vercel.app/api/spotify)](https://open.spotify.com/user/5poysnhfqeuqvporsjfmxiff2)
-
-### Connect with me:
-
-[<img align="left" alt="NewFrenchDev | YouTube" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" />][youtube]
-[<img align="left" alt="NewFrenchDev  | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
-[<img align="left" alt="NewFrenchDev  | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
-[<img align="left" alt="NewFrenchDev  | Discord" width="22px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png" />][discord]
-
-<br>
-</br>
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code"  width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com)
-[<img align="left" alt="HTML5" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://en.wikipedia.org/wiki/HTML)
-[<img align="left" alt="CSS3" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://en.wikipedia.org/wiki/CSS)
-[<img align="left" alt="Git" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com)
-[<img align="left" alt="GitHub" width="100px" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/NewFrenchDev)
-[<img align="left" alt="Terminal" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://www.puttygen.com/windows-terminal-emulators)
-[<img align="left" alt="Python" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org)
-[<img align="left" alt="CPP" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />](https://en.wikipedia.org/wiki/C%2B%2B)
-[<img align="left" alt="Atom" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />](https://atom.io)
-[<img align="left" alt="Vercel" width="100px" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" />](https://vercel.com)
-[<img align="left" alt="Qt" width="42px" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/qt-512.png" />](https://www.qt.io)
-
-<br >
-</br>
-
-### Machine Learning
-
-[<img align="left" alt="Jupyter" width="100px" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />](https://jupyter.org)
-[<img align="left" alt="Pandas" width="100px" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />](https://pandas.pydata.org)
-[<img align="left" alt="Numpy" width="100px" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />](https://numpy.org)
-[<img align="left" alt="TensorFlow" width="100px" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />](https://www.tensorflow.org/?hl=en)
-[<img align="left" alt="AWS" width="100px" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>](https://aws.amazon.com/fr/)
-
-<br >
-</br>
+> *Autodidacte. Je comprends les systèmes en profondeur, j'automatise tout ce qui peut l'être, et je ne m'arrête jamais à une seule technologie.*
 
 ---
 
-[<img align="left" alt="Discord Server" width="150px" src="https://img.shields.io/discord/655411859981205517?label=discord&logo=discord"/>]()
+### Ce qui m'occupe en ce moment
 
-[youtube]: https://www.youtube.com/channel/UCNyDAD3pprjh0-E_5PJh9Sg
-[instagram]: https://www.instagram.com/gege_island_guy
-[linkedin]: https://www.linkedin.com/in/gérard-lemoing-807099138
-[discord]: https://discord.com
+```
+🔧  Automatisation     pipelines · CI/CD · "si ça se fait deux fois, ça se scripte"
+🖥️  Virtualisation     environnements isolés · infra reproductible · conteneurs
+🔐  Cybersécurité      comprendre les systèmes pour mieux les défendre
+⚙️  Développement      du backend système au frontend, selon le besoin
+```
+
+---
+
+### Stack
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
+
+---
+
+### Projet en cours
+
+**[activite-deputes](https://github.com/NewFrenchDev/activite-deputes)** — suivi automatisé de l'activité des 577 députés de l'Assemblée nationale.
+Pipeline Rust + frontend WASM, zéro intervention manuelle, mise à jour hebdomadaire automatique.
+
+---
+
+### Me trouver
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gérard-lemoing-807099138)
