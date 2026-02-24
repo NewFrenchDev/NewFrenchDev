@@ -52,38 +52,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [My first 2D game with Python (part 2)](https://www.youtube.com/watch?v=etQ6zwq1K_o)
-- [My first 2D game with Python](https://www.youtube.com/watch?v=1i46WneiNY4)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...][youtube]
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/NewFrenchDev/NBA-profiler/pull/46) in [NewFrenchDev/NBA-profiler](https://github.com/NewFrenchDev/NBA-profiler)
-2. 💪 Opened PR [#46](https://github.com/NewFrenchDev/NBA-profiler/pull/46) in [NewFrenchDev/NBA-profiler](https://github.com/NewFrenchDev/NBA-profiler)
-3. 🎉 Merged PR [#45](https://github.com/NewFrenchDev/NBA-profiler/pull/45) in [NewFrenchDev/NBA-profiler](https://github.com/NewFrenchDev/NBA-profiler)
-4. 💪 Opened PR [#45](https://github.com/NewFrenchDev/NBA-profiler/pull/45) in [NewFrenchDev/NBA-profiler](https://github.com/NewFrenchDev/NBA-profiler)
-5. 🎉 Merged PR [#44](https://github.com/NewFrenchDev/NBA-profiler/pull/44) in [NewFrenchDev/NBA-profiler](https://github.com/NewFrenchDev/NBA-profiler)
-<!--END_SECTION:activity-->
-
-</details>
-
 [<img align="left" alt="Discord Server" width="150px" src="https://img.shields.io/discord/655411859981205517?label=discord&logo=discord"/>]()
 
 [youtube]: https://www.youtube.com/channel/UCNyDAD3pprjh0-E_5PJh9Sg
